@@ -5,4 +5,3 @@ export function room1(k, roomData){
 
     const roomLayers = roomData.layers;
 }
-
